@@ -33,14 +33,6 @@ cd ADExplorerSnapshot.py
 pip3 install --user .
 ```
 
-Additionally, Certipy is required.
-
-```
-https://github.com/ly4k/Certipy.git
-cd Certipy
-python3 setup.py install
-```
-
 ## Usage
 
 ```
@@ -89,4 +81,4 @@ ADExplorerSnapshot.py relies on the following projects:
 Credits:
  - Cedric Van Bockhaven (Deloitte) for implementation
  - Marat Nigmatullin (Deloitte) for the idea
- 
+ - The FalconForce team for adding certificate parsing support
